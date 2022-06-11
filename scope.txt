@@ -1,0 +1,7 @@
+low tech
+-capture at specific box
+-display count down text and capture at end
+-use captured image to put into trained model
+
+higher tech
+-compress images in order to save space 
